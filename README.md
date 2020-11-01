@@ -43,16 +43,16 @@ Now that your data is prepared within the database, it's finally time to identif
 
 <img src="Images/1.png" width="800">
 
-* __Observations__ : 'Cardholder 2 is suspicious because he made too many small trasactions and cardholder 18 made high amount anomaly trasactions'
+* __Observations__ : Cardholder 2 is suspicious because he made too many small trasactions and cardholder 18 made high amount anomaly trasactions.
 
 2.  Report for The CEO of the firm's biggest customer suspecting that someone has used her corporate credit card without authorization in the first quarter of 2018 to pay for several expensive restaurant bills.
 
 <img src="Images/2.png">
 
-* __Observations__ : 'In the month of January, card holder number 25 spent $1,177 at a restaurant.\n'
-    'Another outlier can be seen in March where the cardholder spent $1,334 at a bar.\n'
-    'Other six separate outliers, three of each in the month of April and June can be seen spent at restaurant, bar, coffee shop and pub.\n'
-    'Another concerning fraudulent activity is at a food truck where the cardholder paid $1046.'
+* __Observations__ : In the month of January, card holder number 25 spent $1,177 at a restaurant.
+    Another outlier can be seen in March where the cardholder spent $1,334 at a bar.
+    Other six separate outliers, three of each in the month of April and June can be seen spent at restaurant, bar, coffee shop and pub.
+    Another concerning fraudulent activity is at a food truck where the cardholder paid $1046.
 
 ## Challenge
 
