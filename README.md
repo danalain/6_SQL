@@ -47,7 +47,7 @@ Now that your data is prepared within the database, it's finally time to identif
 
 2.  Report for The CEO of the firm's biggest customer suspecting that someone has used her corporate credit card without authorization in the first quarter of 2018 to pay for several expensive restaurant bills.
 
-<img src="Images/2.png">
+<img src="Images/2.png" height='350'>
 
 * __Observations__ : In the month of January, card holder number 25 spent $1,177 at a restaurant.
     Another outlier can be seen in March where the cardholder spent $1,334 at a bar.
