@@ -58,7 +58,7 @@ Now that your data is prepared within the database, it's finally time to identif
 
 ### Identifying Outliers using Standard Deviation
 
-<img src="Images/3.png">
+<img src="Images/3.png" height='350'>
 
 
 
